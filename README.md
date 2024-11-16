@@ -1,2 +1,2 @@
-# CURD_Application
+CURD Application using React js & Python
  
